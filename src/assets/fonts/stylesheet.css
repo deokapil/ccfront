@@ -1,0 +1,165 @@
+@font-face {
+    font-family: 'montserrat_alternatesblack';
+    src: url('../fonts/montserratalternates-black-webfont.eot');
+    src: url('montserratalternates-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserratalternates-black-webfont.woff2') format('woff2'),
+         url('montserratalternates-black-webfont.woff') format('woff'),
+         url('montserratalternates-black-webfont.ttf') format('truetype'),
+         url('montserratalternates-black-webfont.svg#montserrat_alternatesblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'montserrat_alternatesbold';
+    src: url('montserratalternates-bold-webfont.eot');
+    src: url('montserratalternates-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserratalternates-bold-webfont.woff2') format('woff2'),
+         url('montserratalternates-bold-webfont.woff') format('woff'),
+         url('montserratalternates-bold-webfont.ttf') format('truetype'),
+         url('montserratalternates-bold-webfont.svg#montserrat_alternatesbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'montserrat_alternatesXBd';
+    src: url('montserratalternates-extrabold-webfont.eot');
+    src: url('montserratalternates-extrabold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserratalternates-extrabold-webfont.woff2') format('woff2'),
+         url('montserratalternates-extrabold-webfont.woff') format('woff'),
+         url('montserratalternates-extrabold-webfont.ttf') format('truetype'),
+         url('montserratalternates-extrabold-webfont.svg#montserrat_alternatesXBd') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserrat_alternatesXLt';
+    src: url('montserratalternates-extralight-webfont.eot');
+    src: url('montserratalternates-extralight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserratalternates-extralight-webfont.woff2') format('woff2'),
+         url('montserratalternates-extralight-webfont.woff') format('woff'),
+         url('montserratalternates-extralight-webfont.ttf') format('truetype'),
+         url('montserratalternates-extralight-webfont.svg#montserrat_alternatesXLt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserrat_alternateslight';
+    src: url('montserratalternates-light-webfont.eot');
+    src: url('montserratalternates-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserratalternates-light-webfont.woff2') format('woff2'),
+         url('montserratalternates-light-webfont.woff') format('woff'),
+         url('montserratalternates-light-webfont.ttf') format('truetype'),
+         url('montserratalternates-light-webfont.svg#montserrat_alternateslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserrat_alternatesmedium';
+    src: url('montserratalternates-medium-webfont.eot');
+    src: url('montserratalternates-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserratalternates-medium-webfont.woff2') format('woff2'),
+         url('montserratalternates-medium-webfont.woff') format('woff'),
+         url('montserratalternates-medium-webfont.ttf') format('truetype'),
+         url('montserratalternates-medium-webfont.svg#montserrat_alternatesmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserrat_alternatesregular';
+    src: url('montserratalternates-regular-webfont.eot');
+    src: url('montserratalternates-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserratalternates-regular-webfont.woff2') format('woff2'),
+         url('montserratalternates-regular-webfont.woff') format('woff'),
+         url('montserratalternates-regular-webfont.ttf') format('truetype'),
+         url('montserratalternates-regular-webfont.svg#montserrat_alternatesregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserrat_alternatessemibold';
+    src: url('montserratalternates-semibold-webfont.eot');
+    src: url('montserratalternates-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserratalternates-semibold-webfont.woff2') format('woff2'),
+         url('montserratalternates-semibold-webfont.woff') format('woff'),
+         url('montserratalternates-semibold-webfont.ttf') format('truetype'),
+         url('montserratalternates-semibold-webfont.svg#montserrat_alternatessemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserrat_alternatesthin';
+    src: url('montserratalternates-thin-webfont.eot');
+    src: url('montserratalternates-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserratalternates-thin-webfont.woff2') format('woff2'),
+         url('montserratalternates-thin-webfont.woff') format('woff'),
+         url('montserratalternates-thin-webfont.ttf') format('truetype'),
+         url('montserratalternates-thin-webfont.svg#montserrat_alternatesthin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserratblack';
+    src: url('montserrat-black-webfont.eot');
+    src: url('montserrat-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserrat-black-webfont.woff2') format('woff2'),
+         url('montserrat-black-webfont.woff') format('woff'),
+         url('montserrat-black-webfont.ttf') format('truetype'),
+         url('montserrat-black-webfont.svg#montserratblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserratbold';
+    src: url('montserrat-bold-webfont.eot');
+    src: url('montserrat-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserrat-bold-webfont.woff2') format('woff2'),
+         url('montserrat-bold-webfont.woff') format('woff'),
+         url('montserrat-bold-webfont.ttf') format('truetype'),
+         url('montserrat-bold-webfont.svg#montserratbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
